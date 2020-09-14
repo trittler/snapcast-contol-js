@@ -1,1 +1,1 @@
-# snapcast-controller
+# snapcast-contol-js
